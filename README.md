@@ -1,4 +1,16 @@
-## Hi there 👋
+## Heya! Thanks for checking this corner of the Internet! 🌐
+
+### Things I'm working on
+
+- Nix configurations
+- `gt`, a Gitea command line application 
+- `omega`, an all-in-one Discord bot
+- `drillsergeant`, a commit counter for git
+- `bleak`, a Raspberry Pi lighting controller for your TV
+
+...plus a whole lot more!
+
+Wanna see more development? Come check out [my Gitea server](https://scm.wyattjmiller.com/explore/repos)!
 
 <!--
 **wymillerlinux/wymillerlinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
