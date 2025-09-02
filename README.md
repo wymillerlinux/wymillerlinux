@@ -2,7 +2,11 @@
 
 ### Things I'm working on
 
+- [New personal website](https://wyattjmiller.com)
 - Nix configurations
+- Minecraft and Terraria modifications
+- `caitsith`, a dice rolling Discord bot
+- `ballbot`, a NFL Discord bot
 - `gt`, a Gitea command line application 
 - `omega`, an all-in-one Discord bot
 - `drillsergeant`, a commit counter for git
