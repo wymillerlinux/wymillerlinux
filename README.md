@@ -3,7 +3,7 @@
 ### Things I'm working on
 
 - [New personal website](https://wyattjmiller.com)
-- Nix configurations
+- Nix configurations and packages
 - Minecraft and Terraria modifications
 - `caitsith`, a dice rolling Discord bot
 - `ballbot`, a NFL Discord bot
