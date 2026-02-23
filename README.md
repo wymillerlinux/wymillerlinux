@@ -5,7 +5,7 @@
 - [New personal website](https://wyattjmiller.com)
 - Nix configurations and packages
 - Minecraft and Terraria modifications
-- `caitsith`, a dice rolling Discord bot
+- `caitsith`, a dice rolling Discord/Matrix bot
 - `ballbot`, a NFL Discord bot
 - `gt`, a Gitea command line application 
 - `omega`, an all-in-one Discord bot
