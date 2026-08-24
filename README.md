@@ -5,7 +5,7 @@
 - [New personal website](https://wyattjmiller.com)
 - Nix configurations, packages, and a curated [Nix User Repository](https://scm.wyattjmiller.com/wymiller/nur)
 - Minecraft and Terraria plugins
-- `hildebrand`, a Discord/Matrix trivia buzzer bot
+- `hildibrand`, a Discord/Matrix trivia buzzer bot
 - `caitsith`, a dice rolling Discord/Matrix bot
 - `ballbot`, a NFL Discord bot
 - `gt`, a Gitea command line application 
