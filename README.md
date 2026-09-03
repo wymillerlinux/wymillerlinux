@@ -5,6 +5,7 @@
 - [New personal website](https://wyattjmiller.com)
 - Nix configurations, packages, and a curated [Nix User Repository](https://scm.wyattjmiller.com/wymiller/nur)
 - Minecraft and Terraria plugins
+- `snespatcher`, a SNES patching tool
 - `hildibrand`, a Discord/Matrix trivia buzzer bot
 - `caitsith`, a dice rolling Discord/Matrix bot
 - `ballbot`, a NFL Discord bot
